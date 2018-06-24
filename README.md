@@ -27,3 +27,7 @@
 
 ## The Complete Node.js Developer Course
 ![Slide 6](certificates/The_complete_Node.js_developer_course.jpg)
+
+## Node with React: Fullstack Web Development
+![Slide 7](certificates/Node_with_React_Fullstack_Web_Development.jpg)
+
