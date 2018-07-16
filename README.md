@@ -2,14 +2,16 @@
 
 ### All certificates completed at Udemy
 
-* [Automate the boring stuff with Python](#user-content-automate-the-boring-stuff-with-python)
 * [Javascript Understanding the weird parts](#user-content-javascript-understanding-the-weird-parts)
 * [Learn and Understand Node.js](#user-content-learn-and-understand-nodejs)
 * [Modern React with Redux](#user-content-modern-react-with-redux)
 * [The Complete Developers Guide to MongoDB](#user-content-the-complete-developers-guide-to-mongodb)
 * [The Complete Node.js Developer Course](#user-content-the-complete-nodejs-developer-course)
-* [MERN Stack Front to Back](#user-content-the-complete-nodejs-developer-course)
-* [Node with React: Fullstack Web Development](#user-content-the-complete-nodejs-developer-course)
+* [MERN Stack Front to Back](#user-content-mern-stack-front-to-back)
+* [Node with React: Fullstack Web Development](#user-content-node-with-react-fullstack-web-development)
+* [Automate the boring stuff with Python](#user-content-automate-the-boring-stuff-with-python)
+
+<hr>
 
 ## Javascript Understanding the weird parts
 ![Slide 1](certificates/Javascript_Understanding_the_weird_parts.jpg)
