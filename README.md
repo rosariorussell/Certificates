@@ -10,6 +10,8 @@
 * [MERN Stack Front to Back](#user-content-mern-stack-front-to-back)
 * [Node with React: Fullstack Web Development](#user-content-node-with-react-fullstack-web-development)
 * [Automate the boring stuff with Python](#user-content-automate-the-boring-stuff-with-python)
+* [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
+
 
 <hr>
 
@@ -36,3 +38,6 @@
 
 ## Automate the boring stuff with Python
 ![Slide 8](certificates/Automate_the_boring_stuff_with_Python.jpg)
+
+## AWS Serverless APIs and Apps
+![Slide 9](certificates/AWS_Serverless_APIs_and_Apps.jpg)
