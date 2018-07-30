@@ -8,17 +8,31 @@
 ### React
 * [Modern React with Redux](#user-content-modern-react-with-redux)
 
-### Full Stack with React, Node, & MongoDB
+### Full Stack with React + Node
 * [MERN Stack Front to Back](#user-content-mern-stack-front-to-back)
 * [Node with React: Fullstack Web Development](#user-content-node-with-react-fullstack-web-development)
+
+### Databases (SQL & NoSQL)
 * [The Complete Developers Guide to MongoDB](#user-content-the-complete-developers-guide-to-mongodb)
 
 ### Amazon Web Services & Serverless
 * [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
 
-### Other
+### Other JavaScript courses
 * [Javascript Understanding the weird parts](#user-content-javascript-understanding-the-weird-parts)
+
+### Python
 * [Automate the boring stuff with Python](#user-content-automate-the-boring-stuff-with-python)
+* [Complete Python Masterclass](#user-content-complete-python-masterclass)
+
+### Accounting & Finance
+* [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
+* [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
+
+### Ethereum & Blockchain
+* [Ethereum - Decentralized Application Design and Development](#user-content-automate-the-boring-stuff-with-python)
+* [Ethereum Developer: Build a Decentralized Blockchain](#user-content-automate-the-boring-stuff-with-python)
+
 
 <hr>
 
@@ -52,4 +66,18 @@
 ## Automate the boring stuff with Python
 ![Slide 10](certificates/Automate_the_boring_stuff_with_Python.jpg)
 
+## Complete Python Masterclass
+![Slide 11](certificates/Complete_Python_Masterclass.jpg)
+
+## The Startup Equity Calculator
+![Slide 12](certificates/The_Startup_Equity_Calculator.jpg)
+
+## Bitcoin for Accountants
+![Slide 13](certificates/Bitcoin_for_Accountants.jpg)
+
+## Ethereum - Decentralized Application Design and Development
+![Slide 14](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+
+## Ethereum Developer: Build a Decentralized Blockchain
+![Slide 15](certificates/Ethereum_Developer_Build_A_Decentralized_Blockchain.jpg)
 
