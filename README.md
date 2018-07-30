@@ -1,37 +1,60 @@
 # All certificates completed at Udemy
 
-### Node
+<details>
+<summary> Node</summary>
+
 * [Learn and Understand Node.js](#user-content-learn-and-understand-nodejs)
 * [The Complete Node.js Developer Course](#user-content-the-complete-nodejs-developer-course)
 * [Node JS Advanced Concepts](#user-content-node-js-advanced-concepts)
+</details>
 
-### React
+<details>
+<summary> React</summary>
+
 * [Modern React with Redux](#user-content-modern-react-with-redux)
+  </details>
 
-### Full Stack with React + Node
+<details>
+<summary> Full Stack with React + Node</summary>
+
 * [MERN Stack Front to Back](#user-content-mern-stack-front-to-back)
 * [Node with React: Fullstack Web Development](#user-content-node-with-react-fullstack-web-development)
+</details>
 
-### Databases (SQL & NoSQL)
+<details>
+<summary> Databases (SQL & NoSQL)</summary>
+
 * [The Complete Developers Guide to MongoDB](#user-content-the-complete-developers-guide-to-mongodb)
 
-### Amazon Web Services & Serverless
+  </details>
+
+  <summary> Amazon Web Services & Serverless</summary>
+
 * [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
+  </details>
 
-### Other JavaScript courses
+  <summary> Other JavaScript courses</summary>
+
 * [Javascript Understanding the weird parts](#user-content-javascript-understanding-the-weird-parts)
+  </details>
 
-### Python
+  <summary> Python</summary>
+
 * [Automate the boring stuff with Python](#user-content-automate-the-boring-stuff-with-python)
 * [Complete Python Masterclass](#user-content-complete-python-masterclass)
+  </details>
 
-### Accounting & Finance
+  <summary> Accounting & Finance</summary>
+
 * [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
 * [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
+  </details>
 
-### Ethereum & Blockchain
+  <summary> Ethereum & Blockchain</summary>
+
 * [Ethereum: Decentralized Application Design and Development](#user-content-ethereum-decentralized-application-design-and-development)
 * [Ethereum Developer: Build a Decentralized Blockchain](#user-content-ethereum-developer-build-a-decentralized-blockchain)
+  </details>
 
 
 <hr>
@@ -79,5 +102,5 @@
 ![Slide 14](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
-![Slide 15](certificates/Ethereum_Developer_Build_A_Decentralized_Blockchain.jpg)
+![Slide 15](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 
