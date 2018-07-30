@@ -30,8 +30,8 @@
 * [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
 
 ### Ethereum & Blockchain
-* [Ethereum - Decentralized Application Design and Development](#user-content-automate-the-boring-stuff-with-python)
-* [Ethereum Developer: Build a Decentralized Blockchain](#user-content-automate-the-boring-stuff-with-python)
+* [Ethereum: Decentralized Application Design and Development](#user-content-ethereum-decentralized-application-design-and-development)
+* [Ethereum Developer: Build a Decentralized Blockchain](#user-content-ethereum-developer-build-a-decentralized-blockchain)
 
 
 <hr>
@@ -75,7 +75,7 @@
 ## Bitcoin for Accountants
 ![Slide 13](certificates/Bitcoin_for_Accountants.jpg)
 
-## Ethereum - Decentralized Application Design and Development
+## Ethereum: Decentralized Application Design and Development
 ![Slide 14](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
