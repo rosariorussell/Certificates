@@ -28,27 +28,32 @@
 
   </details>
 
-  <summary> Amazon Web Services & Serverless</summary>
+<details>
+<summary> Amazon Web Services & Serverless</summary>
 
 * [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
   </details>
+<details>
 
   <summary> Other JavaScript courses</summary>
 
 * [Javascript Understanding the weird parts](#user-content-javascript-understanding-the-weird-parts)
   </details>
+<details>
 
   <summary> Python</summary>
 
 * [Automate the boring stuff with Python](#user-content-automate-the-boring-stuff-with-python)
 * [Complete Python Masterclass](#user-content-complete-python-masterclass)
   </details>
+<details>
 
   <summary> Accounting & Finance</summary>
 
 * [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
 * [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
   </details>
+<details>
 
   <summary> Ethereum & Blockchain</summary>
 
