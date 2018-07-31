@@ -17,7 +17,7 @@
 </details>
 
 <details>
-  <summary> Full Stack with React + Node</summary>
+  <summary> Full Stack Applications with React + Node</summary>
 
   * [MERN Stack Front to Back](#user-content-mern-stack-front-to-back)
   * [Node with React: Fullstack Web Development](#user-content-node-with-react-fullstack-web-development)
