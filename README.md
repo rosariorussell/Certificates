@@ -1,4 +1,4 @@
-# All 15 certificates completed at [Udemy.com](http://www.udemy.com)
+# All 17 certificates completed at [Udemy.com](http://www.udemy.com)
 
 <details>
   <summary> Node</summary>
@@ -44,6 +44,8 @@
   <summary> Other JavaScript courses</summary>
 
   * [Javascript Understanding the weird parts](#user-content-javascript-understanding-the-weird-parts)
+  * [Algorithms and Data Structures](#user-content-algorithms-and-data-structures)
+
 
 </details>
 
@@ -107,21 +109,24 @@
 ## Javascript Understanding the weird parts
 ![Slide 10](certificates/Javascript_Understanding_the_weird_parts.jpg)
 
+## Algorithms and Data Structures
+![Slide 11](certificates/Algorithms_and_Data_Structures.jpg)
+
 ## Automate the boring stuff with Python
-![Slide 11](certificates/Automate_the_boring_stuff_with_Python.jpg)
+![Slide 12](certificates/Automate_the_boring_stuff_with_Python.jpg)
 
 ## Complete Python Masterclass
-![Slide 12](certificates/Complete_Python_Masterclass.jpg)
+![Slide 13](certificates/Complete_Python_Masterclass.jpg)
 
 ## The Startup Equity Calculator
-![Slide 13](certificates/The_Startup_Equity_Calculator.jpg)
+![Slide 14](certificates/The_Startup_Equity_Calculator.jpg)
 
 ## Bitcoin for Accountants
-![Slide 14](certificates/Bitcoin_for_Accountants.jpg)
+![Slide 15](certificates/Bitcoin_for_Accountants.jpg)
 
 ## Ethereum: Decentralized Application Design and Development
-![Slide 15](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 16](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
-![Slide 16](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 17](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 
