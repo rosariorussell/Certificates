@@ -28,6 +28,7 @@
   <summary> Databases (SQL & NoSQL)</summary>
 
   * [The Complete Developers Guide to MongoDB](#user-content-the-complete-developers-guide-to-mongodb)
+  * [The Complete SQL Bootcamp](#user-content-the-complete-sql-bootcamp)
 
 </details>
 
@@ -97,27 +98,30 @@
 ## The Complete Developers Guide to MongoDB
 ![Slide 7](certificates/The_Complete_Developers_Guide_to_MongoDB.jpg)
 
+## The Complete SQL Bootcamp
+![Slide 8](certificates/The_Complete_SQL_Bootcamp.jpg)
+
 ## AWS Serverless APIs and Apps
-![Slide 8](certificates/AWS_Serverless_APIs_and_Apps.jpg)
+![Slide 9](certificates/AWS_Serverless_APIs_and_Apps.jpg)
 
 ## Javascript Understanding the weird parts
-![Slide 9](certificates/Javascript_Understanding_the_weird_parts.jpg)
+![Slide 10](certificates/Javascript_Understanding_the_weird_parts.jpg)
 
 ## Automate the boring stuff with Python
-![Slide 10](certificates/Automate_the_boring_stuff_with_Python.jpg)
+![Slide 11](certificates/Automate_the_boring_stuff_with_Python.jpg)
 
 ## Complete Python Masterclass
-![Slide 11](certificates/Complete_Python_Masterclass.jpg)
+![Slide 12](certificates/Complete_Python_Masterclass.jpg)
 
 ## The Startup Equity Calculator
-![Slide 12](certificates/The_Startup_Equity_Calculator.jpg)
+![Slide 13](certificates/The_Startup_Equity_Calculator.jpg)
 
 ## Bitcoin for Accountants
-![Slide 13](certificates/Bitcoin_for_Accountants.jpg)
+![Slide 14](certificates/Bitcoin_for_Accountants.jpg)
 
 ## Ethereum: Decentralized Application Design and Development
-![Slide 14](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 15](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
-![Slide 15](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 16](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 
