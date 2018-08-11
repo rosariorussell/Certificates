@@ -1,4 +1,4 @@
-# All 17 certificates completed at [Udemy.com](http://www.udemy.com)
+# All 18 certificates completed at [Udemy.com](http://www.udemy.com)
 
 <details>
   <summary> Node</summary>
@@ -71,6 +71,7 @@
 
   <summary> Ethereum & Blockchain</summary>
 
+  * [Ethereum and Solidity: The Complete Developer's Guide](#user-content-ethereum-and-solidity-the-complete-developers-guide)
   * [Ethereum: Decentralized Application Design and Development](#user-content-ethereum-decentralized-application-design-and-development)
   * [Ethereum Developer: Build a Decentralized Blockchain](#user-content-ethereum-developer-build-a-decentralized-blockchain)
 
@@ -124,9 +125,12 @@
 ## Bitcoin for Accountants
 ![Slide 15](certificates/Bitcoin_for_Accountants.jpg)
 
+## Ethereum and Solidity: The Complete Developer's Guide
+![Slide 16](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
+
 ## Ethereum: Decentralized Application Design and Development
-![Slide 16](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 17](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
-![Slide 17](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 18](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 
