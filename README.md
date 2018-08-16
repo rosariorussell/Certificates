@@ -1,4 +1,4 @@
-# All 18 certificates completed at [Udemy.com](http://www.udemy.com)
+# All 19 certificates completed at [Udemy.com](http://www.udemy.com)
 
 <details>
   <summary> Node</summary>
@@ -10,7 +10,7 @@
 </details>
 
 <details>
-  <summary> React</summary>
+  <summary> React & React Native</summary>
 
   * [Modern React with Redux](#user-content-modern-react-with-redux)
 
@@ -35,6 +35,7 @@
 <details>
   <summary> Amazon Web Services & Serverless</summary>
 
+  * [AWS Certified Solutions Architect](#user-content-aws-certified-solutions-architect)
   * [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
 
 </details>
@@ -104,33 +105,36 @@
 ## The Complete SQL Bootcamp
 ![Slide 8](certificates/The_Complete_SQL_Bootcamp.jpg)
 
+## AWS Certified Solutions Architect
+![Slide 9](certificates/AWS_Certified_Solutions_Architect.jpg)
+
 ## AWS Serverless APIs and Apps
-![Slide 9](certificates/AWS_Serverless_APIs_and_Apps.jpg)
+![Slide 10](certificates/AWS_Serverless_APIs_and_Apps.jpg)
 
 ## Javascript Understanding the weird parts
-![Slide 10](certificates/Javascript_Understanding_the_weird_parts.jpg)
+![Slide 11](certificates/Javascript_Understanding_the_weird_parts.jpg)
 
 ## Algorithms and Data Structures
-![Slide 11](certificates/Algorithms_and_Data_Structures.jpg)
+![Slide 12](certificates/Algorithms_and_Data_Structures.jpg)
 
 ## Automate the boring stuff with Python
-![Slide 12](certificates/Automate_the_boring_stuff_with_Python.jpg)
+![Slide 13](certificates/Automate_the_boring_stuff_with_Python.jpg)
 
 ## Complete Python Masterclass
-![Slide 13](certificates/Complete_Python_Masterclass.jpg)
+![Slide 14](certificates/Complete_Python_Masterclass.jpg)
 
 ## The Startup Equity Calculator
-![Slide 14](certificates/The_Startup_Equity_Calculator.jpg)
+![Slide 15](certificates/The_Startup_Equity_Calculator.jpg)
 
 ## Bitcoin for Accountants
-![Slide 15](certificates/Bitcoin_for_Accountants.jpg)
+![Slide 16](certificates/Bitcoin_for_Accountants.jpg)
 
 ## Ethereum and Solidity: The Complete Developer's Guide
-![Slide 16](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
+![Slide 17](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
 
 ## Ethereum: Decentralized Application Design and Development
-![Slide 17](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 18](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
-![Slide 18](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 19](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 
