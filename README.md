@@ -1,4 +1,4 @@
-# All 19 certificates completed at [Udemy.com](http://www.udemy.com)
+# All 20 certificates completed at [Udemy.com](http://www.udemy.com)
 
 <details>
   <summary> Node</summary>
@@ -37,6 +37,7 @@
 
   * [AWS Certified Solutions Architect](#user-content-aws-certified-solutions-architect)
   * [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
+  * [Build a Serverless App with AWS Lambda](#user-content-build-a-serverless-app-with-aws-lambda)
 
 </details>
 
@@ -111,30 +112,33 @@
 ## AWS Serverless APIs and Apps
 ![Slide 10](certificates/AWS_Serverless_APIs_and_Apps.jpg)
 
+## Build a Serverless App with AWS Lambda
+![Slide 11](certificates/Build_a_Serverless_App_with_AWS_Lambda.jpg)
+
 ## Javascript Understanding the weird parts
-![Slide 11](certificates/Javascript_Understanding_the_weird_parts.jpg)
+![Slide 12](certificates/Javascript_Understanding_the_weird_parts.jpg)
 
 ## Algorithms and Data Structures
-![Slide 12](certificates/Algorithms_and_Data_Structures.jpg)
+![Slide 13](certificates/Algorithms_and_Data_Structures.jpg)
 
 ## Automate the boring stuff with Python
-![Slide 13](certificates/Automate_the_boring_stuff_with_Python.jpg)
+![Slide 14](certificates/Automate_the_boring_stuff_with_Python.jpg)
 
 ## Complete Python Masterclass
-![Slide 14](certificates/Complete_Python_Masterclass.jpg)
+![Slide 15](certificates/Complete_Python_Masterclass.jpg)
 
 ## The Startup Equity Calculator
-![Slide 15](certificates/The_Startup_Equity_Calculator.jpg)
+![Slide 16](certificates/The_Startup_Equity_Calculator.jpg)
 
 ## Bitcoin for Accountants
-![Slide 16](certificates/Bitcoin_for_Accountants.jpg)
+![Slide 17](certificates/Bitcoin_for_Accountants.jpg)
 
 ## Ethereum and Solidity: The Complete Developer's Guide
-![Slide 17](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
+![Slide 18](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
 
 ## Ethereum: Decentralized Application Design and Development
-![Slide 18](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 19](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
-![Slide 19](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 20](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 
