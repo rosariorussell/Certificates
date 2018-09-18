@@ -1,4 +1,4 @@
-# All 20 certificates completed at [Udemy.com](http://www.udemy.com)
+# All 21 certificates completed at [Udemy.com](http://www.udemy.com)
 
 <details>
   <summary> Node</summary>
@@ -66,6 +66,7 @@
 
   * [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
   * [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
+  * [Learn to Sell Anything](#user-content-learn-to-sell-anything)
 
 </details>
 
@@ -133,12 +134,15 @@
 ## Bitcoin for Accountants
 ![Slide 17](certificates/Bitcoin_for_Accountants.jpg)
 
+## Learn to Sell Anything
+![Slide 18](certificates/Learn-to-Sell-Anything.jpg)
+
 ## Ethereum and Solidity: The Complete Developer's Guide
-![Slide 18](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
+![Slide 19](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
 
 ## Ethereum: Decentralized Application Design and Development
-![Slide 19](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 20](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
-![Slide 20](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 21](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 
