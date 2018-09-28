@@ -98,7 +98,7 @@
 
 ![Slide 4](certificates/Modern_React_with_Redux.jpg)
 
-## Modern React with Redux
+## Angular Essentials
 
 ![Slide 5](certificates/Angular_Essentials.jpg)
 
