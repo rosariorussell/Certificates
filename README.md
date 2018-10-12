@@ -1,4 +1,4 @@
-# All 26 certificates completed at [Udemy.com](http://www.udemy.com)
+# A listing of 25+ developer certifications completed
 
 <details>
   <summary> Node</summary>
