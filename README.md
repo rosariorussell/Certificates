@@ -1,4 +1,4 @@
-# All 22 certificates completed at [Udemy.com](http://www.udemy.com)
+# All 26 certificates completed at [Udemy.com](http://www.udemy.com)
 
 <details>
   <summary> Node</summary>
@@ -40,7 +40,7 @@
 - [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
 - [Build a Serverless App with AWS Lambda](#user-content-build-a-serverless-app-with-aws-lambda)
 - [AWS for Devops](#user-content-aws-for-devops)
-- [AWS EC2 Master Class](#user-content-aws-ec2-master-class)
+- [Amazon EC2 Master Class](#user-content-amazon-ec2-master-class)
 - [Continuous Delivery on AWS](#user-content-continuous-delivery-on-aws)
 - [Deploying Docker to AWS](#user-content-deploying-docker-to-aws)
 
