@@ -13,16 +13,19 @@
   <summary> Front-end frameworks</summary>
 
 - [Modern React with Redux](#user-content-modern-react-with-redux)
-- [Advanced React and Redux](#user-content-advanced-react-and-redux
+- [Advanced React and Redux](#user-content-advanced-react-and-redux)
 - [Angular Essentials](#user-content-angular-essentials)
 
 </details>
 
 <details>
-  <summary> Full Stack Applications (React + Node)</summary>
+  <summary> Full Stack Applications </summary>
 
 - [MERN Stack Front to Back](#user-content-mern-stack-front-to-back)
 - [Node with React: Fullstack Web Development](#user-content-node-with-react-fullstack-web-development)
+- [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
+- [Build a Serverless App with AWS Lambda](#user-content-build-a-serverless-app-with-aws-lambda)
+
 
 </details>
 
@@ -35,11 +38,9 @@
 </details>
 
 <details>
-  <summary> Amazon Web Services & Serverless</summary>
+  <summary> Amazon Web Services </summary>
 
 - [AWS Certified Solutions Architect](#user-content-aws-certified-solutions-architect)
-- [AWS Serverless APIs and Apps](#user-content-aws-serverless-apis-and-apps)
-- [Build a Serverless App with AWS Lambda](#user-content-build-a-serverless-app-with-aws-lambda)
 - [AWS for Devops](#user-content-aws-for-devops)
 - [Amazon EC2 Master Class](#user-content-amazon-ec2-master-class)
 - [Continuous Delivery on AWS](#user-content-continuous-delivery-on-aws)
@@ -120,25 +121,25 @@
 
 ![Slide 8](certificates/Node_with_React_Fullstack_Web_Development.jpg)
 
-## The Complete Developers Guide to MongoDB
-
-![Slide 9](certificates/The_Complete_Developers_Guide_to_MongoDB.jpg)
-
-## The Complete SQL Bootcamp
-
-![Slide 10](certificates/The_Complete_SQL_Bootcamp.jpg)
-
-## AWS Certified Solutions Architect
-
-![Slide 11](certificates/AWS_Certified_Solutions_Architect.jpg)
-
 ## AWS Serverless APIs and Apps
 
-![Slide 12](certificates/AWS_Serverless_APIs_and_Apps.jpg)
+![Slide 9](certificates/AWS_Serverless_APIs_and_Apps.jpg)
 
 ## Build a Serverless App with AWS Lambda
 
-![Slide 13](certificates/Build_a_Serverless_App_with_AWS_Lambda.jpg)
+![Slide 10](certificates/Build_a_Serverless_App_with_AWS_Lambda.jpg)
+
+## The Complete Developers Guide to MongoDB
+
+![Slide 11](certificates/The_Complete_Developers_Guide_to_MongoDB.jpg)
+
+## The Complete SQL Bootcamp
+
+![Slide 12](certificates/The_Complete_SQL_Bootcamp.jpg)
+
+## AWS Certified Solutions Architect
+
+![Slide 13](certificates/AWS_Certified_Solutions_Architect.jpg)
 
 ## AWS for Devops
 
