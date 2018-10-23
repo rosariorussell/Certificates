@@ -13,6 +13,7 @@
   <summary> Front-end frameworks</summary>
 
 - [Modern React with Redux](#user-content-modern-react-with-redux)
+- [Advanced React and Redux](#user-content-advanced-react-and-redux
 - [Angular Essentials](#user-content-angular-essentials)
 
 </details>
@@ -103,95 +104,94 @@
 
 ![Slide 4](certificates/Modern_React_with_Redux.jpg)
 
+## Advanced React and Redux
+
+![Slide 5](certificates/Advanced_React_and_Redux.jpg)
+
 ## Angular Essentials
 
-![Slide 5](certificates/Angular_Essentials.jpg)
+![Slide 6](certificates/Angular_Essentials.jpg)
 
 ## MERN Stack Front to Back
 
-![Slide 6](certificates/MERN_Stack_Front_To_Back.jpg)
+![Slide 7](certificates/MERN_Stack_Front_To_Back.jpg)
 
 ## Node with React: Fullstack Web Development
 
-![Slide 7](certificates/Node_with_React_Fullstack_Web_Development.jpg)
+![Slide 8](certificates/Node_with_React_Fullstack_Web_Development.jpg)
 
 ## The Complete Developers Guide to MongoDB
 
-![Slide 8](certificates/The_Complete_Developers_Guide_to_MongoDB.jpg)
+![Slide 9](certificates/The_Complete_Developers_Guide_to_MongoDB.jpg)
 
 ## The Complete SQL Bootcamp
 
-![Slide 9](certificates/The_Complete_SQL_Bootcamp.jpg)
+![Slide 10](certificates/The_Complete_SQL_Bootcamp.jpg)
 
 ## AWS Certified Solutions Architect
 
-![Slide 10](certificates/AWS_Certified_Solutions_Architect.jpg)
+![Slide 11](certificates/AWS_Certified_Solutions_Architect.jpg)
 
 ## AWS Serverless APIs and Apps
 
-![Slide 11](certificates/AWS_Serverless_APIs_and_Apps.jpg)
+![Slide 12](certificates/AWS_Serverless_APIs_and_Apps.jpg)
 
 ## Build a Serverless App with AWS Lambda
 
-![Slide 12](certificates/Build_a_Serverless_App_with_AWS_Lambda.jpg)
-
-
+![Slide 13](certificates/Build_a_Serverless_App_with_AWS_Lambda.jpg)
 
 ## AWS for Devops
 
-![Slide 13](certificates/AWS_for_Devops.png)
+![Slide 14](certificates/AWS_for_Devops.png)
 
 ## Amazon EC2 Master Class
 
-![Slide 14](certificates/Amazon_EC2_Master_Class.jpg)
+![Slide 15](certificates/Amazon_EC2_Master_Class.jpg)
 
 ## Continuous Delivery on AWS
 
-![Slide 15](certificates/Continuous_Delivery_on_AWS.jpg)
+![Slide 16](certificates/Continuous_Delivery_on_AWS.jpg)
 
 ## Deploying Docker to AWS
 
-![Slide 16](certificates/Deploying_Docker_to_AWS.png)
-
-
-
+![Slide 17](certificates/Deploying_Docker_to_AWS.png)
 
 ## Javascript Understanding the weird parts
 
-![Slide 17](certificates/Javascript_Understanding_the_weird_parts.jpg)
+![Slide 18](certificates/Javascript_Understanding_the_weird_parts.jpg)
 
 ## Algorithms and Data Structures
 
-![Slide 18](certificates/Algorithms_and_Data_Structures.jpg)
+![Slide 19](certificates/Algorithms_and_Data_Structures.jpg)
 
 ## Automate the boring stuff with Python
 
-![Slide 19](certificates/Automate_the_boring_stuff_with_Python.jpg)
+![Slide 20](certificates/Automate_the_boring_stuff_with_Python.jpg)
 
 ## Complete Python Masterclass
 
-![Slide 20](certificates/Complete_Python_Masterclass.jpg)
+![Slide 21](certificates/Complete_Python_Masterclass.jpg)
 
 ## The Startup Equity Calculator
 
-![Slide 21](certificates/The_Startup_Equity_Calculator.jpg)
+![Slide 22](certificates/The_Startup_Equity_Calculator.jpg)
 
 ## Bitcoin for Accountants
 
-![Slide 22](certificates/Bitcoin_for_Accountants.jpg)
+![Slide 23](certificates/Bitcoin_for_Accountants.jpg)
 
 ## Learn to Sell Anything
 
-![Slide 23](certificates/Learn-to-Sell-Anything.jpg)
+![Slide 24](certificates/Learn-to-Sell-Anything.jpg)
 
 ## Ethereum and Solidity: The Complete Developer's Guide
 
-![Slide 24](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
+![Slide 25](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
 
 ## Ethereum: Decentralized Application Design and Development
 
-![Slide 25](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 26](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
 
-![Slide 26](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 27](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
