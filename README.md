@@ -64,6 +64,7 @@
 
 - [Automate the boring stuff with Python](#user-content-automate-the-boring-stuff-with-python)
 - [Complete Python Masterclass](#user-content-complete-python-masterclass)
+- [Python for Financial Analysis and Algorithmic Trading](#user-content-python-for-financial-analysis-and-algorithmic-trading)
 
 </details>
 
@@ -74,6 +75,7 @@
 - [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
 - [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
 - [Learn to Sell Anything](#user-content-learn-to-sell-anything)
+- [Python for Financial Analysis and Algorithmic Trading](#user-content-python-for-financial-analysis-and-algorithmic-trading)
 
 </details>
 
@@ -185,14 +187,18 @@
 
 ![Slide 24](certificates/Learn-to-Sell-Anything.jpg)
 
+## Python for Financial Analysis and Algorithmic Trading
+
+![Slide 25](certificates/Python_for_Financial_Analysis_and_Algorithmic_Trading.jpg)
+
 ## Ethereum and Solidity: The Complete Developer's Guide
 
-![Slide 25](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
+![Slide 26](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
 
 ## Ethereum: Decentralized Application Design and Development
 
-![Slide 26](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 27](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 
 ## Ethereum Developer: Build a Decentralized Blockchain
 
-![Slide 27](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 28](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
