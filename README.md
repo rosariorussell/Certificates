@@ -202,3 +202,4 @@
 ## Ethereum Developer: Build a Decentralized Blockchain
 
 ![Slide 28](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+<a href="#top">Back to top</a>
