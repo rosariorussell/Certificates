@@ -72,10 +72,11 @@
 
   <summary> Accounting & Finance</summary>
 
+- [Financial Analysis and Algorithmic Trading](#user-content-python-for-financial-analysis-and-algorithmic-trading)
 - [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
 - [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
 - [Learn to Sell Anything](#user-content-learn-to-sell-anything)
-- [Python for Financial Analysis and Algorithmic Trading](#user-content-python-for-financial-analysis-and-algorithmic-trading)
+
 
 </details>
 
@@ -211,7 +212,7 @@
 ![Slide 24](certificates/Complete_Python_Masterclass.jpg)
 <a href="#top">Back to top</a>
 
-## Financial Analysis and Algorithmic Trading
+## Python for Financial Analysis and Algorithmic Trading
 
 ![Slide 25](certificates/Python_for_Financial_Analysis_and_Algorithmic_Trading.jpg)
 <a href="#top">Back to top</a>
