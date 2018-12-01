@@ -211,24 +211,24 @@
 ![Slide 24](certificates/Complete_Python_Masterclass.jpg)
 <a href="#top">Back to top</a>
 
+## Financial Analysis and Algorithmic Trading
+
+![Slide 25](certificates/Python_for_Financial_Analysis_and_Algorithmic_Trading.jpg)
+<a href="#top">Back to top</a>
+
 ## The Startup Equity Calculator
 
-![Slide 25](certificates/The_Startup_Equity_Calculator.jpg)
+![Slide 26](certificates/The_Startup_Equity_Calculator.jpg)
 <a href="#top">Back to top</a>
 
 ## Bitcoin for Accountants
 
-![Slide 26](certificates/Bitcoin_for_Accountants.jpg)
+![Slide 27](certificates/Bitcoin_for_Accountants.jpg)
 <a href="#top">Back to top</a>
 
 ## Learn to Sell Anything
 
-![Slide 27](certificates/Learn-to-Sell-Anything.jpg)
-<a href="#top">Back to top</a>
-
-## Python for Financial Analysis and Algorithmic Trading
-
-![Slide 28](certificates/Python_for_Financial_Analysis_and_Algorithmic_Trading.jpg)
+![Slide 28](certificates/Learn-to-Sell-Anything.jpg)
 <a href="#top">Back to top</a>
 
 ## Ethereum and Solidity: The Complete Developer's Guide
