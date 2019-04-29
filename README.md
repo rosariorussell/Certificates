@@ -1,4 +1,4 @@
-# A listing of 30+ developer certifications completed
+# A listing of 30+ certifications completed
 
 <details>
   <summary> JavaScript & Node</summary>
@@ -76,6 +76,7 @@
 - [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
 - [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
 - [Learn to Sell Anything](#user-content-learn-to-sell-anything)
+- [Financial Planning & Analysis](#user-content-learn-to-sell-anything)
 
 
 </details>
@@ -232,17 +233,22 @@
 ![Slide 28](certificates/Learn-to-Sell-Anything.jpg)
 <a href="#top">Back to top</a>
 
+## Financial Planning & Analysis
+
+![Slide 29](certificates/Financial_planning_analysis.jpg)
+<a href="#top">Back to top</a>
+
 ## Ethereum and Solidity: The Complete Developer's Guide
 
-![Slide 29](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
+![Slide 30](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
 <a href="#top">Back to top</a>
 
 ## Ethereum: Decentralized Application Design and Development
 
-![Slide 30](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 31](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 <a href="#top">Back to top</a>
 
 ## Ethereum Developer: Build a Decentralized Blockchain
 
-![Slide 31](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 32](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 <a href="#top">Back to top</a>
