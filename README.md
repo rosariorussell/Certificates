@@ -76,7 +76,7 @@
 - [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
 - [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
 - [Learn to Sell Anything](#user-content-learn-to-sell-anything)
-- [Financial Planning & Analysis](#user-content-learn-to-sell-anything)
+- [Financial Planning & Analysis](#user-content-financial-planning--analysis)
 
 
 </details>
