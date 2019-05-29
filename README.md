@@ -63,6 +63,7 @@
 
   <summary> Python</summary>
 
+- [Algorithmic Trading](#user-content-python-for-financial-analysis-and-algorithmic-trading)
 - [Automate the boring stuff with Python](#user-content-automate-the-boring-stuff-with-python)
 - [Complete Python Masterclass](#user-content-complete-python-masterclass)
 
@@ -70,24 +71,24 @@
 
 <details>
 
-  <summary> Accounting & Finance</summary>
-
-- [Financial Analysis and Algorithmic Trading](#user-content-python-for-financial-analysis-and-algorithmic-trading)
-- [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
+  <summary> Blockchain</summary>
+  
 - [Bitcoin for Accountants](#user-content-bitcoin-for-accountants)
-- [Learn to Sell Anything](#user-content-learn-to-sell-anything)
-- [Financial Planning & Analysis](#user-content-financial-planning--analysis)
-
+- [Ethereum and Solidity: The Complete Developer's Guide](#user-content-ethereum-and-solidity-the-complete-developers-guide)
+- [Ethereum: Decentralized Application Design and Development](#user-content-ethereum-decentralized-application-design-and-development)
+- [Ethereum Developer: Build a Decentralized Blockchain](#user-content-ethereum-developer-build-a-decentralized-blockchain)
 
 </details>
 
 <details>
 
-  <summary> Blockchain</summary>
+  <summary> Business</summary>
 
-- [Ethereum and Solidity: The Complete Developer's Guide](#user-content-ethereum-and-solidity-the-complete-developers-guide)
-- [Ethereum: Decentralized Application Design and Development](#user-content-ethereum-decentralized-application-design-and-development)
-- [Ethereum Developer: Build a Decentralized Blockchain](#user-content-ethereum-developer-build-a-decentralized-blockchain)
+- [Project Management](#user-content-the-startup-equity-calculator)
+- [The Startup Equity Calculator](#user-content-the-startup-equity-calculator)
+- [Learn to Sell Anything](#user-content-learn-to-sell-anything)
+- [Financial Planning & Analysis](#user-content-financial-planning--analysis)
+
 
 </details>
 
@@ -203,52 +204,58 @@
 ![Slide 22](certificates/Deploying_Docker_to_AWS.png)
 <a href="#top">Back to top</a>
 
+## Python for Financial Analysis and Algorithmic Trading
+
+![Slide 23](certificates/Python_for_Financial_Analysis_and_Algorithmic_Trading.jpg)
+<a href="#top">Back to top</a>
+
 ## Automate the boring stuff with Python
 
-![Slide 23](certificates/Automate_the_boring_stuff_with_Python.jpg)
+![Slide 24](certificates/Automate_the_boring_stuff_with_Python.jpg)
 <a href="#top">Back to top</a>
 
 ## Complete Python Masterclass
 
-![Slide 24](certificates/Complete_Python_Masterclass.jpg)
-<a href="#top">Back to top</a>
-
-## Python for Financial Analysis and Algorithmic Trading
-
-![Slide 25](certificates/Python_for_Financial_Analysis_and_Algorithmic_Trading.jpg)
-<a href="#top">Back to top</a>
-
-## The Startup Equity Calculator
-
-![Slide 26](certificates/The_Startup_Equity_Calculator.jpg)
+![Slide 25](certificates/Complete_Python_Masterclass.jpg)
 <a href="#top">Back to top</a>
 
 ## Bitcoin for Accountants
 
-![Slide 27](certificates/Bitcoin_for_Accountants.jpg)
-<a href="#top">Back to top</a>
-
-## Learn to Sell Anything
-
-![Slide 28](certificates/Learn-to-Sell-Anything.jpg)
-<a href="#top">Back to top</a>
-
-## Financial Planning & Analysis
-
-![Slide 29](certificates/Financial_planning_analysis.jpg)
+![Slide 26](certificates/Bitcoin_for_Accountants.jpg)
 <a href="#top">Back to top</a>
 
 ## Ethereum and Solidity: The Complete Developer's Guide
 
-![Slide 30](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
+![Slide 27](certificates/Ethereum_and_Solidity_the_Complete_Developers_Guide.jpg)
 <a href="#top">Back to top</a>
 
 ## Ethereum: Decentralized Application Design and Development
 
-![Slide 31](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
+![Slide 28](certificates/Ethereum_Decentralized_Application_Design_and_Development.jpg)
 <a href="#top">Back to top</a>
 
 ## Ethereum Developer: Build a Decentralized Blockchain
 
-![Slide 32](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
+![Slide 29](certificates/Ethereum_Developer_Build_A_Decentralised_Blockchain.jpg)
 <a href="#top">Back to top</a>
+
+## Project Management
+
+![Slide 30](certificates/Project_Management.jpg)
+<a href="#top">Back to top</a>
+
+## The Startup Equity Calculator
+
+![Slide 31](certificates/The_Startup_Equity_Calculator.jpg)
+<a href="#top">Back to top</a>
+
+## Learn to Sell Anything
+
+![Slide 32](certificates/Learn-to-Sell-Anything.jpg)
+<a href="#top">Back to top</a>
+
+## Financial Planning & Analysis
+
+![Slide 33](certificates/Financial_planning_analysis.jpg)
+<a href="#top">Back to top</a>
+
