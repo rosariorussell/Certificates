@@ -12,7 +12,7 @@
 </details>
 
 <details>
-  <summary> Advanced topics </summary>
+  <summary> Advanced computer science topics </summary>
 
 - [Deep Learning and Machine Learning](#user-content-deep-learning-and-machine-learning)
 - [Ethical Hacking](#user-content-ethical-hacking)
